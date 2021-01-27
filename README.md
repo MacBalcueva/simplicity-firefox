@@ -30,4 +30,4 @@ A simple color theme for firefox.
 
 # License
 
-This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). See LICENSE.txt for details.
+This work is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/). See [LICENSE.txt](LICENSE.txt) for details.
