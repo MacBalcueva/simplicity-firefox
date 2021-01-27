@@ -1,0 +1,39 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "simpliCT",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(14, 19, 25)",
+      "toolbar_text": "rgb(209, 209, 209)",
+      "frame": "rgb(5, 8, 14)",
+      "tab_background_text": "rgb(138, 135, 145)",
+      "toolbar_field": "rgb(23, 32, 41)",
+      "toolbar_field_text": "rgb(209, 209, 209)",
+      "tab_line": "rgb(204, 180, 62)",
+      "popup": "rgb(14, 19, 25)",
+      "popup_text": "rgb(209, 209, 209)",
+      "icons": "rgb(209, 209, 209)",
+      "ntp_background": "rgb(14, 19, 25)",
+      "ntp_text": "rgb(209, 209, 209)",
+      "sidebar_border": "rgb(138, 135, 145)",
+      "sidebar_text": "rgb(209, 209, 209)",
+      "sidebar": "rgb(14, 19, 25)",
+      "tab_text": "rgb(209, 209, 209)",
+      "tab_loading": "rgb(204, 180, 62)"
+    }
+  }
+}
